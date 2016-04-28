@@ -8,3 +8,10 @@ Requires no addons
 bouncingBalls:
 second assignment, to make an animation. I made a ball that bounces. You can move the ball as well.
 Requires no addons
+
+twitterVisualization:
+First project. It takes a tweet from a live search and takes that tweet, 
+turning it into an abstract piece of inked art, a combination of generative design and
+graphical data presentation.
+Requires the following addons:
+ofGeo, ofGui, ofxHTTP, ofxInkSim, ofxIO, ofxJSON, ofxMediaType, ofxNetworkUtils, ofxSSLManager, ofxTaskQueue, ofxTwitterTools
