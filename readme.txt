@@ -15,3 +15,8 @@ turning it into an abstract piece of inked art, a combination of generative desi
 graphical data presentation.
 Requires the following addons:
 ofGeo, ofGui, ofxHTTP, ofxInkSim, ofxIO, ofxJSON, ofxMediaType, ofxNetworkUtils, ofxSSLManager, ofxTaskQueue, ofxTwitterTools
+
+videoManipulation:
+fourth? assignment. Take a feed from the camera and spits it with an inverse coloring
+Dragging the mouse up and down changes the location of the split, pressing 'f' flips which side is inverted
+Requires no addons
