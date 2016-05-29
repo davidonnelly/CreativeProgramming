@@ -1,0 +1,25 @@
+<shader_uniforms>
+	<brushsize>5.14841</brushsize>
+	<waterAmount>1.99004</waterAmount>
+	<gamma>0.208167</gamma>
+	<baseMask>0.0179283</baseMask>
+	<toe_p>0.729084</toe_p>
+	<blk1_default>0.061753</blk1_default>
+	<blk1_grain>0.391304</blk1_grain>
+	<blk1_alum>0.0547809</blk1_alum>
+	<blk2_glue>0.123153</blk2_glue>
+	<blk2_fixblk>0.178287</blk2_fixblk>
+	<pinw_default>0.460159</pinw_default>
+	<pinw_fixblk>0.270916</pinw_fixblk>
+	<pinw_pindisorder_g_p_step_0_toe_glue__>0.2</pinw_pindisorder_g_p_step_0_toe_glue__>
+	<omega>0.319721</omega>
+	<advect_p>0.106574</advect_p>
+	<evapor>0</evapor>
+	<evapor_b>0</evapor_b>
+	<blka_lowest_hindrance_rate>0</blka_lowest_hindrance_rate>
+	<blka_blocking_advection_when_flow_speed_low>0</blka_blocking_advection_when_flow_speed_low>
+	<fixrate_base_fix_factor>0.0139442</fixrate_base_fix_factor>
+	<fixrate_modulating_dryness_glue1>0.09</fixrate_modulating_dryness_glue1>
+	<fixrate_modulating_dryness_glue2>0.09</fixrate_modulating_dryness_glue2>
+<shader_uniforms/>
+</shader_uniforms>
