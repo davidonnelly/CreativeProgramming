@@ -20,3 +20,8 @@ videoManipulation:
 fourth? assignment. Take a feed from the camera and spits it with an inverse coloring
 Dragging the mouse up and down changes the location of the split, pressing 'f' flips which side is inverted
 Requires no addons
+
+onlineIdentity:
+This assignment looks into interactivity and how we view oursleves through the eyes of others on the internet. It fetches tweets contaning 'you are' and projects them onto a silloete of the person sitting in front of the computer.
+Requres TSPS and the following addons:
+ofxFontStash, ofxGeo, ofxGui, ofxHTTP, ofxIO, ofxJSON, ofxMediaType, ofxNetworkUtils, ofxOsc, ofxSSLManager, ofxTaskQueue, ofxTSPSReciever, ofxTwitterTools
